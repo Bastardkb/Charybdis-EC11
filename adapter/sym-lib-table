@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/../promicro.lib")(options "")(descr ""))
+  (lib (name "elite-C")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/elite-C.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/symbols/YAAJ_BlackPill_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like")(type "Legacy")(uri "${KIPRJMOD}/symbols/YAAJ_WeAct_BlackPill_Part_Like.lib")(options "")(descr ""))
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+)
