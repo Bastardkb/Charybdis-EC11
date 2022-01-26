@@ -33,3 +33,5 @@ flex/flex-backups/*
 
 # Project specific files
 adapter/adapter-backups
+adapter/#auto_saved_files#
+adapter/_autosave-adapter.kicad_sch
