@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.254
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -122,14 +122,8 @@
       },
       "track_widths": [
         0.0,
-        0.2032,
-        0.254,
-        0.3048,
-        0.4064,
-        0.508,
-        0.6096,
-        0.762,
-        1.5
+        0.13,
+        0.25
       ],
       "via_dimensions": [
         {
@@ -137,20 +131,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6096,
-          "drill": 0.3048
+          "diameter": 0.4,
+          "drill": 0.2
         },
         {
-          "diameter": 0.8128,
-          "drill": 0.508
-        },
-        {
-          "diameter": 1.27,
-          "drill": 0.762
-        },
-        {
-          "diameter": 1.651,
-          "drill": 0.9906
+          "diameter": 0.8,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false,
@@ -404,9 +390,7 @@
         "microvia_diameter": 0.508,
         "microvia_drill": 0.127,
         "name": "+5V",
-        "nets": [
-          "+5V"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4064,
