@@ -25,7 +25,8 @@ fp-info-cache
 
 # Bastardkb files
 
-flex/gerber
+adapter/gerbers
+adapter/gerbers/*
 gerber
 gerber/*
 flex/flex-backups
