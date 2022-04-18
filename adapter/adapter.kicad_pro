@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 4.0,
-          "width": 4.0
+          "drill": 0.0,
+          "height": 0.82,
+          "width": 2.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.5
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -355,7 +355,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "adapter.kicad_pro",
+    "filename": "adaptertest.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -423,7 +423,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "",
       "vmrl": "",
@@ -474,7 +474,7 @@
   },
   "sheets": [
     [
-      "2351395d-af3e-422b-bc82-f8d9a2825ae0",
+      "eaef1172-3351-417c-bfc4-74a598f141cb",
       ""
     ]
   ],
