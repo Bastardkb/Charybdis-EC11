@@ -3388,7 +3388,7 @@
   (gr_text "DO" (at 70.312 53.692 35) (layer "F.SilkS") (tstamp 940dee3f-89c1-4471-84a9-03cf50ca88a1)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
-  (gr_text "CHARYBDIS \nROTARY \nENCODER" (at 47.3 26.45 285) (layer "F.SilkS") (tstamp a107db4d-3f9d-49c8-b15b-fab6ac49ddbb)
+  (gr_text "CHARYBDIS \nROTARY \nENCODER" (at 47.413 25.707 285) (layer "F.SilkS") (tstamp a107db4d-3f9d-49c8-b15b-fab6ac49ddbb)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify left))
   )
   (gr_text "VCC" (at 72.360088 37.620001 45) (layer "F.SilkS") (tstamp a304d122-e15f-4002-a706-251bbc3591d3)
@@ -3400,7 +3400,7 @@
   (gr_text "DIN" (at 72.448477 47.78 45) (layer "F.SilkS") (tstamp dd3d2b30-192d-4faf-a66d-b01e7ebcacb9)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
-  (gr_text "REV 1.0" (at 56.2 30.05 255) (layer "F.SilkS") (tstamp f8294074-bbba-476f-bbc9-5e0449941fe3)
+  (gr_text "REV 1.1" (at 56.2 30.05 255) (layer "F.SilkS") (tstamp f8294074-bbba-476f-bbc9-5e0449941fe3)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
 
