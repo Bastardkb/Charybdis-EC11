@@ -3400,7 +3400,7 @@
   (gr_text "DIN" (at 72.448477 47.78 45) (layer "F.SilkS") (tstamp dd3d2b30-192d-4faf-a66d-b01e7ebcacb9)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
-  (gr_text "REV 1.1" (at 56.2 30.05 255) (layer "F.SilkS") (tstamp f8294074-bbba-476f-bbc9-5e0449941fe3)
+  (gr_text "REV 1.1.2" (at 56.2 30.05 255) (layer "F.SilkS") (tstamp f8294074-bbba-476f-bbc9-5e0449941fe3)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
 
