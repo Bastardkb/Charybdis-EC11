@@ -20,7 +20,7 @@ If your keyboard uses direct pin you will need to bridge the middle pad on the s
 LEDs are optional. If not being used, VCC, GND, DIN, and DO can be ignored.
 
 Otherwise:
-- Install a capacitor and resistor on the marked footprints (this should be the same as the
+- Install the capacitor and resistor on the marked footprints
 - VCC and GND can be connected to wherever is the most convenient
 - DIN and DO should be connected as part of the existing LED chain on the half - the suggested way to do this is to connect the DO from the PCB plate to the EC11 adapter DIN (instead of the thumb cluster), and the thumb cluster pcb DIN to the EC11 adapter DO
 
