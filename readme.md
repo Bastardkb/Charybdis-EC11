@@ -27,6 +27,9 @@ Otherwise:
 ## Misc. Note
 It should be possible to connect the adapter directly to the 6 pins of the trackball pin header on the shield for better aesthetics and modularity. However this would need custom matrix scanning code - to mix direct pin and switch matrix scanning, as well as a custom RGB LED driver to allow a second `RGB_DI` pin to be defined
 
+## Knob
+The knob work on the 20mm tall and 6mm diameter knurled stem.
+
 Licensed under CERN-OHL-W v2.
 
 Copyright Quentin Lebastard 2022.
