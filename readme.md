@@ -29,7 +29,7 @@ It should be possible to connect the adapter directly to the 6 pins of the track
 
 ## Parts you will need
 ### For every build
-- order the PCB using the latest *gerbers.zip from here: https://github.com/Bastardkb/Charybdis-EC11/releases
+- order the PCB using the latest *gerbers.zip from here: [Releases](https://github.com/Bastardkb/Charybdis-EC11/releases)
 - diode: SOD-123, 1N4148
 - encoder: EC11 rotary encoder
 ### Optional for LED functionality
