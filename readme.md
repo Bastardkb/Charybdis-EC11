@@ -2,7 +2,7 @@
 
 EC11 PCB to be used in place of the trackball in the Charybdis keyboard.
 
-`REV 1.2` is tested and working. 
+`REV 1.2` is tested and working.
 
 <img src="assets/Falcon_top_sq.jpg" width="400"> <img src="assets/Falcon_bottom_sq.jpg" width="400">
 
@@ -26,6 +26,16 @@ Otherwise:
 
 ## Misc. Note
 It should be possible to connect the adapter directly to the 6 pins of the trackball pin header on the shield for better aesthetics and modularity. However this would need custom matrix scanning code - to mix direct pin and switch matrix scanning, as well as a custom RGB LED driver to allow a second `RGB_DI` pin to be defined
+
+## Parts you will need
+### For every build
+- order the PCB using the latest *gerbers.zip from here: https://github.com/Bastardkb/Charybdis-EC11/releases
+- diode: SOD-123, 1N4148
+- encoder: EC11 rotary encoder
+### Optional for LED functionality
+- LEDs: SK6812-MINI-E - 12 per board
+- Capacitor: 1uF, size 1206 - 1 per board
+- Resistor: 330ohm, size 1206 - 1 per board
 
 ## Knob
 The knob work on the 20mm tall and 6mm diameter knurled stem.
