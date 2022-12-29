@@ -42,8 +42,8 @@ It should be possible to connect the adapter directly to the 6 pins of the track
 | Part name        | Amount per board | Format | Value  |
 | ---------------- | ---------------- | ------ | ------ |
 | SK6812-MINI-E    | 12               |        |        |
-| Capacitor, 1uF   | 1                | 1206   | 1uF    |
-| Resistor, 330ohm | 1                | 1206   | 330ohm |
+| Capacitor        | 1                | 1206   | 1uF    |
+| Resistor         | 1                | 1206   | 330ohm |
 
 ## Knob
 The knob work on the 20mm tall and 6mm diameter knurled stem.
