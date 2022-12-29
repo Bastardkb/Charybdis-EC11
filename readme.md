@@ -29,13 +29,21 @@ It should be possible to connect the adapter directly to the 6 pins of the track
 
 ## Parts you will need
 ### For every build
-- order the PCB using the latest *gerbers.zip from here: [Releases](https://github.com/Bastardkb/Charybdis-EC11/releases)
-- diode: SOD-123, 1N4148
-- encoder: EC11 rotary encoder
+
+| Part name           | Amount | Format  |
+| ------------------- | ------ | ------- |
+| Diode, 1N4148       | 1      | SOD-123 |
+| EC11 Rotary encoder | 1      |         |
+| Rotary encoder PCB* | 1      |         |
+
+*order the PCB using the latest *gerbers.zip from here: [Releases](https://github.com/Bastardkb/Charybdis-EC11/releases)
+
 ### Optional for LED functionality
-- LEDs: SK6812-MINI-E - 12 per board
-- Capacitor: 1uF, size 1206 - 1 per board
-- Resistor: 330ohm, size 1206 - 1 per board
+| Part name        | Amount per board | Format | Value  |
+| ---------------- | ---------------- | ------ | ------ |
+| SK6812-MINI-E    | 12               |        |        |
+| Capacitor, 1uF   | 1                | 1206   | 1uF    |
+| Resistor, 330ohm | 1                | 1206   | 330ohm |
 
 ## Knob
 The knob work on the 20mm tall and 6mm diameter knurled stem.
